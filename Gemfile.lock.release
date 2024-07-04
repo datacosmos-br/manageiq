@@ -283,7 +283,7 @@ GIT
   branch: radjabov
   specs:
     manageiq-providers-oracle_cloud (0.1.0)
-      oci (~> 2.19.0)
+      oci (~> 2.21.2)
 
 GIT
   remote: https://github.com/ManageIQ/manageiq-providers-ovirt
