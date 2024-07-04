@@ -20,6 +20,9 @@ end
 
 manageiq_plugin "manageiq-schema"
 
+gem "oci",                         "~>2.21.1",           :require => true
+
+
 # Unmodified gems
 gem "activerecord-session_store",       "~>2.0"
 gem "activerecord-virtual_attributes",  "~>6.1.2"
