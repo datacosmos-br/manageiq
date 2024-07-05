@@ -278,12 +278,12 @@ GIT
       parallel (~> 1.12)
 
 GIT
-  remote: https://github.com/ManageIQ/manageiq-providers-oracle_cloud
-  revision: 4c5e1faa34e11f097b959c19c3a5ccec75a5b48b
-  branch: radjabov
+  remote: https://github.com/datacosmos-br/manageiq-providers-oracle_cloud
+  revision: 8e26c60e4c421f809ea9bf09e5ff387aea4e9647
+  branch: radjabov-local
   specs:
     manageiq-providers-oracle_cloud (0.1.0)
-      oci (~> 2.21.2)
+      oci (~> 2.21.1)
 
 GIT
   remote: https://github.com/ManageIQ/manageiq-providers-ovirt
@@ -1024,11 +1024,12 @@ GEM
       version_gem (~> 1.1)
     oauth-tty (1.0.5)
       version_gem (~> 1.1, >= 1.1.1)
-    oci (2.19.0)
+    oci (2.21.1)
+      event_stream_parser (~> 1.0.0)
       inifile (~> 3.0, >= 3.0.0)
       json (>= 1.4.6, < 3.0.0)
       jwt (~> 2.1)
-      psych (>= 3.1.0, < 5.0.0)
+      psych (psych ~> 5.0, >= 5.0.1)
     openscap (0.4.9)
       ffi (>= 1.0.9)
     optimist (3.1.0)
