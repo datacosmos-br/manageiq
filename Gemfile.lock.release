@@ -1029,7 +1029,7 @@ GEM
       inifile (~> 3.0, >= 3.0.0)
       json (>= 1.4.6, < 3.0.0)
       jwt (~> 2.1)
-      psych (psych ~> 5.0, >= 5.0.1)
+      psych (~> 5.0, >= 5.0.1)
     openscap (0.4.9)
       ffi (>= 1.0.9)
     optimist (3.1.0)
