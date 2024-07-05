@@ -279,7 +279,7 @@ GIT
 
 GIT
   remote: https://github.com/datacosmos-br/manageiq-providers-oracle_cloud
-  revision: 8e26c60e4c421f809ea9bf09e5ff387aea4e9647
+  revision: 4324ec1a967ab6c78b9f4b2ee264ae58b319d41d
   branch: radjabov-local
   specs:
     manageiq-providers-oracle_cloud (0.1.0)
