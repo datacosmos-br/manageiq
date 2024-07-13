@@ -278,7 +278,7 @@ GIT
       parallel (~> 1.12)
 
 GIT
-  remote: https://github.com/ManageIQ/manageiq-providers-oracle_cloud
+  remote: https://github.com/datacosmos-br/manageiq-providers-oracle_cloud
   revision: c2b97ee39aba65f7e4afdd0ea87ba02c6f0cf282
   branch: radjabov
   specs:
