@@ -150,7 +150,7 @@ GIT
       jwt (~> 2.2)
 
 GIT
-  remote: https://github.com/ManageIQ/manageiq-providers-foreman
+  remote: https://github.com/datacosmos-br/manageiq-providers-foreman
   revision: d5ff0b02d3ccdf37b223ac5d41c5fb142753c571
   branch: radjabov
   specs:
