@@ -192,7 +192,7 @@ group :nuage, :manageiq_default do
 end
 
 group :oracle_cloud, :manageiq_default do
-  gem "manageiq-providers-oracle_cloud", :git => 'https://github.com/datacosmos-br/manageiq-providers-oracle_cloud.git', :branch => 'radjabov-local'
+  gem "manageiq-providers-oracle_cloud", :git => 'https://github.com/datacosmos-br/manageiq-providers-oracle_cloud.git', :branch => 'radjabov-dc'
 end
 
 group :redfish, :manageiq_default do
